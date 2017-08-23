@@ -134,3 +134,6 @@ footer {
 .breadcrumb.link-nav > li {
     display: inline-block;
 }
+.fade.in {
+    opacity: 1 !important;
+}
